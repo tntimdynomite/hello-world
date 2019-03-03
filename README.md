@@ -1,4 +1,4 @@
-# hello-world
+# tntimdynomite practice
 GitHub Guides: Hello World because why the hell not?
 
 
